@@ -1,5 +1,6 @@
 def menu_principal():
-    print("calculadora giovanna")
+    print("CONVERSOR DE MEDIDAS")
+    print("Conversor de Temperatura")
     print("3. sair")
 
     opcao = input("digite o que deseja: ")
